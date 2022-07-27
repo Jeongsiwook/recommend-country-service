@@ -10,7 +10,7 @@
 ## 프로젝트 구성 안내
 
 ### 0. 프로젝트 Notion
-  - https://www.notion.so/1d701a9be74b4cc2b00bb8152e647188
+  - [Notion page](https://detectivecoder.notion.site/detectivecoder/1d701a9be74b4cc2b00bb8152e647188)
 
 ### 1. 프로젝트 소개
   - 활용한 data set(Kaggle)
